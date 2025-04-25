@@ -1,0 +1,133 @@
+| end of epoch   1 | time:  6.56s | train_mape_loss 12.2937 | train_mae_loss 1742.4306 | valid mae 2063.2268 | valid mape 9.4274 | valid corr  0.7573 | valid rmse  3352.2133
+test mae 1320.6143 | test mape 11.0114 | test corr 0.8486 | test rmse 2084.0245
+Number of model parameters is 53001
+Number of model parameters is 53001
+| end of epoch   1 | time:  6.55s | train_mape_loss 12.2937 | train_mae_loss 1742.4306 | valid mae 2063.2268 | valid mape 9.4274 | valid corr  0.7573 | valid rmse  3352.2133
+test mae 1320.6143 | test mape 11.0114 | test corr 0.8486 | test rmse 2084.0245
+| end of epoch   2 | time:  3.63s | train_mape_loss 9.8240 | train_mae_loss 1391.4955 | valid mae 1924.7538 | valid mape 8.7411 | valid corr  0.7797 | valid rmse  3182.9369
+test mae 1242.6785 | test mape 10.2703 | test corr 0.8625 | test rmse 1989.0677
+Number of model parameters is 53001
+| end of epoch   1 | time:  6.77s | train_mape_loss 15.4658 | train_mae_loss 2202.0509 | valid mae 2693.1255 | valid mape 12.1327 | valid corr  0.6560 | valid rmse  4326.5266
+test mae 1798.4094 | test mape 14.2972 | test corr 0.7827 | test rmse 2903.6072
+| end of epoch   2 | time:  3.65s | train_mape_loss 12.2064 | train_mae_loss 1764.8826 | valid mae 2342.9136 | valid mape 10.6996 | valid corr  0.7113 | valid rmse  3737.4352
+test mae 1498.9750 | test mape 12.2558 | test corr 0.8231 | test rmse 2344.3781
+| end of epoch   3 | time:  3.73s | train_mape_loss 10.8080 | train_mae_loss 1525.9501 | valid mae 2156.5425 | valid mape 9.8022 | valid corr  0.7416 | valid rmse  3472.9257
+test mae 1387.9170 | test mape 11.4306 | test corr 0.8393 | test rmse 2171.5334
+| end of epoch   4 | time:  3.71s | train_mape_loss 10.2934 | train_mae_loss 1450.9629 | valid mae 2057.5837 | valid mape 9.3450 | valid corr  0.7574 | valid rmse  3347.2605
+test mae 1323.8385 | test mape 10.9772 | test corr 0.8479 | test rmse 2089.9995
+| end of epoch   5 | time:  3.70s | train_mape_loss 10.0104 | train_mae_loss 1415.5262 | valid mae 2001.6489 | valid mape 9.0894 | valid corr  0.7662 | valid rmse  3279.6544
+test mae 1290.5250 | test mape 10.7013 | test corr 0.8529 | test rmse 2050.2927
+| end of epoch   6 | time:  3.90s | train_mape_loss 9.8360 | train_mae_loss 1392.2364 | valid mae 1966.1259 | valid mape 8.9508 | valid corr  0.7722 | valid rmse  3236.0618
+test mae 1267.0206 | test mape 10.5521 | test corr 0.8563 | test rmse 2019.3947
+| end of epoch   7 | time:  3.81s | train_mape_loss 9.7102 | train_mae_loss 1377.2734 | valid mae 1945.0841 | valid mape 8.8980 | valid corr  0.7767 | valid rmse  3205.9691
+test mae 1250.1021 | test mape 10.4577 | test corr 0.8596 | test rmse 1993.9934
+| end of epoch   8 | time:  3.64s | train_mape_loss 9.5999 | train_mae_loss 1363.5513 | valid mae 1921.3671 | valid mape 8.7262 | valid corr  0.7810 | valid rmse  3172.6689
+test mae 1239.7985 | test mape 10.2918 | test corr 0.8627 | test rmse 1982.3355
+| end of epoch   9 | time:  3.63s | train_mape_loss 9.4973 | train_mae_loss 1353.4822 | valid mae 1902.5171 | valid mape 8.6428 | valid corr  0.7853 | valid rmse  3145.9441
+test mae 1225.8494 | test mape 10.1996 | test corr 0.8652 | test rmse 1963.7718
+| end of epoch  10 | time:  3.80s | train_mape_loss 9.3975 | train_mae_loss 1342.6449 | valid mae 1890.9830 | valid mape 8.5815 | valid corr  0.7882 | valid rmse  3124.9394
+test mae 1217.7358 | test mape 10.1009 | test corr 0.8677 | test rmse 1952.7792
+| end of epoch  11 | time:  3.84s | train_mape_loss 9.3215 | train_mae_loss 1333.5090 | valid mae 1880.9182 | valid mape 8.5112 | valid corr  0.7903 | valid rmse  3108.8913
+test mae 1201.8484 | test mape 9.9642 | test corr 0.8700 | test rmse 1931.9988
+| end of epoch  12 | time:  3.73s | train_mape_loss 9.2577 | train_mae_loss 1326.3203 | valid mae 1872.3824 | valid mape 8.4978 | valid corr  0.7922 | valid rmse  3095.9730
+test mae 1192.4561 | test mape 9.9380 | test corr 0.8716 | test rmse 1920.0160
+| end of epoch  13 | time:  3.63s | train_mape_loss 9.2100 | train_mae_loss 1321.6229 | valid mae 1869.2434 | valid mape 8.4775 | valid corr  0.7930 | valid rmse  3090.9518
+test mae 1184.5493 | test mape 9.8534 | test corr 0.8732 | test rmse 1909.3694
+| end of epoch  14 | time:  3.63s | train_mape_loss 9.1736 | train_mae_loss 1315.2327 | valid mae 1865.9923 | valid mape 8.4376 | valid corr  0.7932 | valid rmse  3085.9794
+test mae 1181.0723 | test mape 9.7737 | test corr 0.8740 | test rmse 1906.4287
+| end of epoch  15 | time:  3.69s | train_mape_loss 9.1440 | train_mae_loss 1312.6768 | valid mae 1854.7036 | valid mape 8.4228 | valid corr  0.7946 | valid rmse  3071.9801
+test mae 1174.9014 | test mape 9.7929 | test corr 0.8747 | test rmse 1898.8475
+| end of epoch  16 | time:  3.83s | train_mape_loss 9.1206 | train_mae_loss 1309.5357 | valid mae 1848.8790 | valid mape 8.3809 | valid corr  0.7946 | valid rmse  3065.4484
+test mae 1171.1646 | test mape 9.7121 | test corr 0.8755 | test rmse 1894.3862
+| end of epoch  17 | time:  3.90s | train_mape_loss 9.0960 | train_mae_loss 1305.1266 | valid mae 1856.5436 | valid mape 8.4228 | valid corr  0.7940 | valid rmse  3071.6191
+test mae 1170.8817 | test mape 9.6851 | test corr 0.8761 | test rmse 1893.6489
+| end of epoch  18 | time:  3.88s | train_mape_loss 9.0782 | train_mae_loss 1303.5247 | valid mae 1845.0974 | valid mape 8.3775 | valid corr  0.7950 | valid rmse  3059.4367
+test mae 1167.1404 | test mape 9.7017 | test corr 0.8762 | test rmse 1889.9520
+| end of epoch  19 | time:  3.74s | train_mape_loss 9.0656 | train_mae_loss 1300.2556 | valid mae 1847.6930 | valid mape 8.4046 | valid corr  0.7947 | valid rmse  3064.1237
+test mae 1161.6239 | test mape 9.6586 | test corr 0.8770 | test rmse 1882.8711
+| end of epoch  20 | time:  3.64s | train_mape_loss 9.0430 | train_mae_loss 1298.3381 | valid mae 1836.1969 | valid mape 8.3497 | valid corr  0.7955 | valid rmse  3050.0264
+test mae 1158.7725 | test mape 9.6666 | test corr 0.8774 | test rmse 1879.8654
+| end of epoch  21 | time:  3.63s | train_mape_loss 9.0214 | train_mae_loss 1295.6503 | valid mae 1835.3217 | valid mape 8.3411 | valid corr  0.7958 | valid rmse  3051.0139
+test mae 1155.0598 | test mape 9.6222 | test corr 0.8778 | test rmse 1875.9506
+| end of epoch  22 | time:  3.64s | train_mape_loss 9.0163 | train_mae_loss 1293.6879 | valid mae 1836.0980 | valid mape 8.3864 | valid corr  0.7954 | valid rmse  3053.6958
+test mae 1150.0359 | test mape 9.6219 | test corr 0.8782 | test rmse 1869.1820
+| end of epoch  23 | time:  3.61s | train_mape_loss 9.0023 | train_mae_loss 1293.3586 | valid mae 1832.9081 | valid mape 8.3499 | valid corr  0.7953 | valid rmse  3047.1687
+test mae 1150.0551 | test mape 9.5757 | test corr 0.8786 | test rmse 1869.2555
+| end of epoch  24 | time:  3.63s | train_mape_loss 8.9918 | train_mae_loss 1290.3251 | valid mae 1833.1013 | valid mape 8.3317 | valid corr  0.7951 | valid rmse  3050.4418
+test mae 1150.9437 | test mape 9.5485 | test corr 0.8787 | test rmse 1870.5030
+| end of epoch  25 | time:  3.61s | train_mape_loss 8.9722 | train_mae_loss 1287.2099 | valid mae 1836.3853 | valid mape 8.3926 | valid corr  0.7955 | valid rmse  3050.0977
+test mae 1149.1416 | test mape 9.6175 | test corr 0.8792 | test rmse 1866.8214
+final test mae 1149.1416 | test mape 9.6175 | test corr 0.8792 | test rmse 1866.8214
+Number of model parameters is 53001
+| end of epoch   1 | time:  6.58s | train_mape_loss 15.4658 | train_mae_loss 2202.0509 | valid mae 2693.1255 | valid mape 12.1327 | valid corr  0.6560 | valid rmse  4326.5266
+test mae 1798.4094 | test mape 14.2972 | test corr 0.7827 | test rmse 2903.6072
+| end of epoch   2 | time:  3.64s | train_mape_loss 12.2064 | train_mae_loss 1764.8826 | valid mae 2342.9136 | valid mape 10.6996 | valid corr  0.7113 | valid rmse  3737.4352
+test mae 1498.9750 | test mape 12.2558 | test corr 0.8231 | test rmse 2344.3781
+| end of epoch   3 | time:  3.62s | train_mape_loss 10.8080 | train_mae_loss 1525.9501 | valid mae 2156.5425 | valid mape 9.8022 | valid corr  0.7416 | valid rmse  3472.9257
+test mae 1387.9170 | test mape 11.4306 | test corr 0.8393 | test rmse 2171.5334
+| end of epoch   4 | time:  3.65s | train_mape_loss 10.2934 | train_mae_loss 1450.9629 | valid mae 2057.5837 | valid mape 9.3450 | valid corr  0.7574 | valid rmse  3347.2605
+test mae 1323.8385 | test mape 10.9772 | test corr 0.8479 | test rmse 2089.9995
+| end of epoch   5 | time:  3.58s | train_mape_loss 10.0104 | train_mae_loss 1415.5262 | valid mae 2001.6489 | valid mape 9.0894 | valid corr  0.7662 | valid rmse  3279.6544
+test mae 1290.5250 | test mape 10.7013 | test corr 0.8529 | test rmse 2050.2927
+| end of epoch   6 | time:  3.79s | train_mape_loss 9.8360 | train_mae_loss 1392.2364 | valid mae 1966.1259 | valid mape 8.9508 | valid corr  0.7722 | valid rmse  3236.0618
+test mae 1267.0206 | test mape 10.5521 | test corr 0.8563 | test rmse 2019.3947
+| end of epoch   7 | time:  3.81s | train_mape_loss 9.7102 | train_mae_loss 1377.2734 | valid mae 1945.0841 | valid mape 8.8980 | valid corr  0.7767 | valid rmse  3205.9691
+test mae 1250.1021 | test mape 10.4577 | test corr 0.8596 | test rmse 1993.9934
+| end of epoch   8 | time:  3.74s | train_mape_loss 9.5999 | train_mae_loss 1363.5513 | valid mae 1921.3671 | valid mape 8.7262 | valid corr  0.7810 | valid rmse  3172.6689
+test mae 1239.7985 | test mape 10.2918 | test corr 0.8627 | test rmse 1982.3355
+| end of epoch   9 | time:  3.64s | train_mape_loss 9.4973 | train_mae_loss 1353.4822 | valid mae 1902.5171 | valid mape 8.6428 | valid corr  0.7853 | valid rmse  3145.9441
+test mae 1225.8494 | test mape 10.1996 | test corr 0.8652 | test rmse 1963.7718
+| end of epoch  10 | time:  3.66s | train_mape_loss 9.3975 | train_mae_loss 1342.6449 | valid mae 1890.9830 | valid mape 8.5815 | valid corr  0.7882 | valid rmse  3124.9394
+test mae 1217.7358 | test mape 10.1009 | test corr 0.8677 | test rmse 1952.7792
+| end of epoch  11 | time:  3.80s | train_mape_loss 9.3215 | train_mae_loss 1333.5090 | valid mae 1880.9182 | valid mape 8.5112 | valid corr  0.7903 | valid rmse  3108.8913
+test mae 1201.8484 | test mape 9.9642 | test corr 0.8700 | test rmse 1931.9988
+| end of epoch  12 | time:  3.85s | train_mape_loss 9.2577 | train_mae_loss 1326.3203 | valid mae 1872.3824 | valid mape 8.4978 | valid corr  0.7922 | valid rmse  3095.9730
+test mae 1192.4561 | test mape 9.9380 | test corr 0.8716 | test rmse 1920.0160
+| end of epoch  13 | time:  3.73s | train_mape_loss 9.2100 | train_mae_loss 1321.6229 | valid mae 1869.2434 | valid mape 8.4775 | valid corr  0.7930 | valid rmse  3090.9518
+test mae 1184.5493 | test mape 9.8534 | test corr 0.8732 | test rmse 1909.3694
+| end of epoch  14 | time:  3.60s | train_mape_loss 9.1736 | train_mae_loss 1315.2327 | valid mae 1865.9923 | valid mape 8.4376 | valid corr  0.7932 | valid rmse  3085.9794
+test mae 1181.0723 | test mape 9.7737 | test corr 0.8740 | test rmse 1906.4287
+| end of epoch  15 | time:  3.71s | train_mape_loss 9.1440 | train_mae_loss 1312.6768 | valid mae 1854.7036 | valid mape 8.4228 | valid corr  0.7946 | valid rmse  3071.9801
+test mae 1174.9014 | test mape 9.7929 | test corr 0.8747 | test rmse 1898.8475
+| end of epoch  16 | time:  3.74s | train_mape_loss 9.1206 | train_mae_loss 1309.5357 | valid mae 1848.8790 | valid mape 8.3809 | valid corr  0.7946 | valid rmse  3065.4484
+test mae 1171.1646 | test mape 9.7121 | test corr 0.8755 | test rmse 1894.3862
+| end of epoch  17 | time:  3.80s | train_mape_loss 9.0960 | train_mae_loss 1305.1266 | valid mae 1856.5436 | valid mape 8.4228 | valid corr  0.7940 | valid rmse  3071.6191
+test mae 1170.8817 | test mape 9.6851 | test corr 0.8761 | test rmse 1893.6489
+| end of epoch  18 | time:  3.81s | train_mape_loss 9.0782 | train_mae_loss 1303.5247 | valid mae 1845.0974 | valid mape 8.3775 | valid corr  0.7950 | valid rmse  3059.4367
+test mae 1167.1404 | test mape 9.7017 | test corr 0.8762 | test rmse 1889.9520
+| end of epoch  19 | time:  3.67s | train_mape_loss 9.0656 | train_mae_loss 1300.2556 | valid mae 1847.6930 | valid mape 8.4046 | valid corr  0.7947 | valid rmse  3064.1237
+test mae 1161.6239 | test mape 9.6586 | test corr 0.8770 | test rmse 1882.8711
+| end of epoch  20 | time:  3.58s | train_mape_loss 9.0430 | train_mae_loss 1298.3381 | valid mae 1836.1969 | valid mape 8.3497 | valid corr  0.7955 | valid rmse  3050.0264
+test mae 1158.7725 | test mape 9.6666 | test corr 0.8774 | test rmse 1879.8654
+| end of epoch  21 | time:  3.63s | train_mape_loss 9.0214 | train_mae_loss 1295.6503 | valid mae 1835.3217 | valid mape 8.3411 | valid corr  0.7958 | valid rmse  3051.0139
+test mae 1155.0598 | test mape 9.6222 | test corr 0.8778 | test rmse 1875.9506
+| end of epoch  22 | time:  3.56s | train_mape_loss 9.0163 | train_mae_loss 1293.6879 | valid mae 1836.0980 | valid mape 8.3864 | valid corr  0.7954 | valid rmse  3053.6958
+test mae 1150.0359 | test mape 9.6219 | test corr 0.8782 | test rmse 1869.1820
+| end of epoch  23 | time:  3.58s | train_mape_loss 9.0023 | train_mae_loss 1293.3586 | valid mae 1832.9081 | valid mape 8.3499 | valid corr  0.7953 | valid rmse  3047.1687
+test mae 1150.0551 | test mape 9.5757 | test corr 0.8786 | test rmse 1869.2555
+| end of epoch  24 | time:  3.56s | train_mape_loss 8.9918 | train_mae_loss 1290.3251 | valid mae 1833.1013 | valid mape 8.3317 | valid corr  0.7951 | valid rmse  3050.4418
+test mae 1150.9437 | test mape 9.5485 | test corr 0.8787 | test rmse 1870.5030
+| end of epoch  25 | time:  3.56s | train_mape_loss 8.9722 | train_mae_loss 1287.2099 | valid mae 1836.3853 | valid mape 8.3926 | valid corr  0.7955 | valid rmse  3050.0977
+test mae 1149.1416 | test mape 9.6175 | test corr 0.8792 | test rmse 1866.8214
+| end of epoch  26 | time:  3.52s | train_mape_loss 8.9617 | train_mae_loss 1287.0988 | valid mae 1833.6919 | valid mape 8.3512 | valid corr  0.7951 | valid rmse  3048.4252
+test mae 1146.3375 | test mape 9.5239 | test corr 0.8795 | test rmse 1864.1756
+| end of epoch  27 | time:  3.50s | train_mape_loss 8.9503 | train_mae_loss 1285.2961 | valid mae 1837.0145 | valid mape 8.3805 | valid corr  0.7946 | valid rmse  3054.2128
+test mae 1144.6556 | test mape 9.5224 | test corr 0.8799 | test rmse 1860.8744
+| end of epoch  28 | time:  3.57s | train_mape_loss 8.9361 | train_mae_loss 1282.9714 | valid mae 1833.0963 | valid mape 8.3614 | valid corr  0.7948 | valid rmse  3047.9690
+test mae 1141.7834 | test mape 9.5154 | test corr 0.8805 | test rmse 1856.2212
+| end of epoch  29 | time:  3.99s | train_mape_loss 8.9330 | train_mae_loss 1280.8823 | valid mae 1829.5228 | valid mape 8.3513 | valid corr  0.7949 | valid rmse  3045.1452
+test mae 1140.5358 | test mape 9.4960 | test corr 0.8805 | test rmse 1855.7969
+| end of epoch  30 | time:  4.01s | train_mape_loss 8.9203 | train_mae_loss 1280.9071 | valid mae 1828.3390 | valid mape 8.3581 | valid corr  0.7952 | valid rmse  3044.2679
+test mae 1135.9708 | test mape 9.4756 | test corr 0.8807 | test rmse 1849.7459
+| end of epoch  31 | time:  3.77s | train_mape_loss 8.9242 | train_mae_loss 1281.2307 | valid mae 1829.1071 | valid mape 8.3621 | valid corr  0.7949 | valid rmse  3043.4610
+test mae 1137.2448 | test mape 9.4793 | test corr 0.8807 | test rmse 1850.4397
+| end of epoch  32 | time:  3.74s | train_mape_loss 8.9169 | train_mae_loss 1280.2087 | valid mae 1829.4844 | valid mape 8.3633 | valid corr  0.7948 | valid rmse  3044.6210
+test mae 1134.5083 | test mape 9.4826 | test corr 0.8808 | test rmse 1846.2266
+| end of epoch  33 | time:  3.70s | train_mape_loss 8.9082 | train_mae_loss 1278.3428 | valid mae 1830.3876 | valid mape 8.3636 | valid corr  0.7947 | valid rmse  3045.7111
+test mae 1134.5071 | test mape 9.4533 | test corr 0.8809 | test rmse 1846.3909
+| end of epoch  34 | time:  3.73s | train_mape_loss 8.8930 | train_mae_loss 1277.0653 | valid mae 1831.9987 | valid mape 8.3819 | valid corr  0.7946 | valid rmse  3047.2993
+test mae 1134.0249 | test mape 9.4625 | test corr 0.8811 | test rmse 1845.9172
+| end of epoch  35 | time:  3.69s | train_mape_loss 8.8976 | train_mae_loss 1277.7329 | valid mae 1828.7076 | valid mape 8.3613 | valid corr  0.7947 | valid rmse  3042.9939
+test mae 1133.1335 | test mape 9.4538 | test corr 0.8811 | test rmse 1844.0323
+final test mae 1133.1335 | test mape 9.4538 | test corr 0.8811 | test rmse 1844.0323
+Number of model parameters is 53001
